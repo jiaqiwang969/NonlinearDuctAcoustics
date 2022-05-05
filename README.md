@@ -5,10 +5,10 @@
 
 
 
-### Main_F_focus_vertification:
+### Main_F_focus_vertification: (James-Fig. 3.2-3.7)
 
 
-![](https://github.com/jiaqiwang969/NonlinearDuctAcoustics/blob/master/Acoustics_NonlinearDuct/coding4/LL.gif)
-![](https://github.com/jiaqiwang969/NonlinearDuctAcoustics/blob/master/Acoustics_NonlinearDuct/coding4/LL2.gif)
+![](https://github.com/jiaqiwang969/NonlinearDuctAcoustics/blob/main/results/LL1.gif)
+![](https://github.com/jiaqiwang969/NonlinearDuctAcoustics/blob/main/results/LL2.gif)
 
 
